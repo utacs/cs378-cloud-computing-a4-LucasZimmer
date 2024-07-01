@@ -2,15 +2,10 @@
 
 ## Team members' names 
 
-1. Student Name:
+1. Student Name: Lucas Zimmer
 
-   Student UT EID:
+   Student UT EID: lz6983
 
-2. Student Name:
-
-   Student UT EID:
-
- ...
 
 ##  Course Name: CS378 - Cloud Computing 
 
@@ -20,6 +15,31 @@
 
 # Add your Project REPORT HERE 
 
+Task 1:
+0	227452
+1	176113
+2	135791
+3	105692
+4	81900
+5	66481
+6	121014
+7	197056
+8	237868
+9	248310
+10	241876
+11	248226
+12	264040
+13	263512
+14	276763
+15	275919
+16	243519
+17	272288
+18	331075
+19	344939
+20	323571
+21	319305
+22	309237
+23	276934
 
 # Project Template
 
