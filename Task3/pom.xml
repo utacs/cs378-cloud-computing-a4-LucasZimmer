@@ -35,7 +35,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>edu.cs.utexas.Assignment4.ErrorCount</mainClass>
+							<mainClass>edu.cs.utexas.Assignment4.Earnings</mainClass>
 						</manifest>
 					</archive>
 					<descriptorRefs>
